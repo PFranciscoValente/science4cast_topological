@@ -1,6 +1,7 @@
 # science4cast_topological
 
-Code used for a proposed solution to the Science4Cast competition (https://www.iarai.ac.at/science4cast/), organized by the Institute of Advanced Research in Artificial Intelligence, and an official competition within the 2021 IEEE BigData Cup Challenges.
+Code used for a proposed solution to the Science4Cast competition (https://www.iarai.ac.at/science4cast/), organized by the Institute of Advanced Research in Artificial Intelligence, and an official competition within the 2021 IEEE BigData Cup Challenges. 
+The solution was awarded a Special Prize by the organizers.
 
 In order to run the proposed approach, the following steps must be followed:
 1. run the script "extract_features", to extract the topological features and generate the initial training and evaluation datasets.
