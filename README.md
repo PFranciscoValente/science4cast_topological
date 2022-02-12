@@ -10,3 +10,6 @@ In order to run the proposed approach, the following steps must be followed:
 4. run the script "evaluation_prediction", to apply the final model to the evaluation dataset.
 
 The source data can be found here: https://cloud.iarai.ac.at/index.php/s/iTx3bXgMdwsngPn
+
+Paper: https://arxiv.org/abs/2202.03393
+
